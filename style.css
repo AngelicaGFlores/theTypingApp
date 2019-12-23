@@ -186,3 +186,23 @@ body {
     color: white;
     background-color: #E95D0F;
 }
+
+
+.minutes{ 
+  margin-right: 5px;
+}
+
+.seconds {
+  margin-right: 5px;
+}
+
+.hundredths {
+  margin-right: 5px;
+}
+
+#clock {
+  display: flex;
+  justify-content: space-between;
+    font-size: 3em;
+  font-weight: bold;
+}
